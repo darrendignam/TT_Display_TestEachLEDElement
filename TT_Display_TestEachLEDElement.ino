@@ -2,7 +2,7 @@
 **     TickerTape LED Testing Firmware                                                                   **
 **     (c) 2019 Darren Dignam                                                                            **
 **                                                                                                       **
-**     Use this sketch to help identify problems with the board.                                         **                                                                                                       **
+**     Use this sketch to help identify problems with the board.                                         **
 **                                                                                                       **
 \* ***************************************************************************************************** */
 #include "LED_Display_Wrapper.h"
